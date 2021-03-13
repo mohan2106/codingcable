@@ -1,7 +1,7 @@
 {
   "name": "codingcable",
   "version": "0.1.0",
-  "homepage": "mohan2106.github.io",
+  "homepage": "https://mohan2106.github.io/codingcable",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
