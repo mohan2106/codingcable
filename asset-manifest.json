@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/codingcable/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/codingcable/static/js/main.7a12c0fa.chunk.js",
-    "main.js.map": "/codingcable/static/js/main.7a12c0fa.chunk.js.map",
+    "main.js": "/codingcable/static/js/main.7eec443f.chunk.js",
+    "main.js.map": "/codingcable/static/js/main.7eec443f.chunk.js.map",
     "runtime-main.js": "/codingcable/static/js/runtime-main.aad955b5.js",
     "runtime-main.js.map": "/codingcable/static/js/runtime-main.aad955b5.js.map",
     "static/js/2.de2ef569.chunk.js": "/codingcable/static/js/2.de2ef569.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.aad955b5.js",
     "static/js/2.de2ef569.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.7a12c0fa.chunk.js"
+    "static/js/main.7eec443f.chunk.js"
   ]
 }
