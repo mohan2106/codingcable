@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <React.StrictMode basename={process.env.PUBLIC_URL}>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
