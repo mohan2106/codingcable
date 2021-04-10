@@ -1,0 +1,16 @@
+// {
+//     "staticWebApps.appSubpath": "/",
+//     "staticWebApps.apiSubpath": "api",
+//     "staticWebApps.outputSubpath": "build",
+//     "emmet.syntaxProfiles": {
+    
+//     }
+// }
+{
+    "emmet.includeLanguages": {
+       "javascript": "javascriptreact"
+   },
+   "files.associations": {
+      "iostream": "cpp"
+   }
+ }
